@@ -17,9 +17,8 @@ public:
         while(j>=0){
             nums1[k--]=nums2[j--];
         }
-
       // //brute force with extra space
-      
+        
       // vector<int> nums3(m+n);
       // int l=0,r=0,i=0;
       // while(l<m && r<n){
